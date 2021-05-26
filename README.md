@@ -1,2 +1,2 @@
-# pudding-rin.github.io.index.html
+# pudding-rin.github.io
 
